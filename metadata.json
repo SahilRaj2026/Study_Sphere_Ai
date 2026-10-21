@@ -1,0 +1,7 @@
+{
+  "name": "StudySphere AI",
+  "description": "Smart student productivity platform for task organization, smart study planning, Pomodoro focus tracking, and AI study assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
